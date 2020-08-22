@@ -1,0 +1,2 @@
+# Drum
+Hello there, I make a website which people can play a drum. Definitely, that's not the reason lol. I dedicate myself to learn Javascript, how to make a sound by click the object or press the keyboard. I was not doing this from zero, so this is the starting files : https://drive.google.com/uc?export=download&amp;id=1m1rPqbhasXu4QhI_S1jtsPsqEYiYix86 . Then I continue the process till the end. Thanks for reading :)
